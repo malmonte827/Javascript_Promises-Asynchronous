@@ -1,0 +1,15 @@
+body{
+    background: green;
+    text-align: center;
+}
+
+button{
+    margin: 0 auto;
+}
+
+.card-img > img{
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
